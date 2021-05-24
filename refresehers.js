@@ -6,7 +6,7 @@ toUC = (word) => {
   
   toUC("basketball");
   
-//   Returns [ 'BASKETBALL', 'throw' ]
+//   Returns [ 'BASKETBALL', 'throw' ]``
 
 
   const arr = ["laz", "ayisha", "rabia"]
